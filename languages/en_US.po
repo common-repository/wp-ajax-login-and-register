@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP AJAX Login and Register\n"
+"POT-Creation-Date: 2016-04-17 20:50+0800\n"
+"PO-Revision-Date: 2016-04-17 20:50+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ../public\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-wp-ajax-login-public.php:119 class-wp-ajax-login-public.php:148
+#: class-wp-ajax-login-public.php:198
+msgid "Session token has expired, please reload the page and try again"
+msgstr ""
+
+#: class-wp-ajax-login-public.php:124 class-wp-ajax-login-public.php:154
+#: class-wp-ajax-login-public.php:203
+msgid "Please fill all form fields"
+msgstr ""
+
+#: class-wp-ajax-login-public.php:132
+msgid "Login successful, reloading page..."
+msgstr ""
+
+#: class-wp-ajax-login-public.php:175
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: class-wp-ajax-login-public.php:185
+msgid "Logout successful, reloading page..."
+msgstr ""
+
+#: class-wp-ajax-login-public.php:222
+msgid "Password Reset. Please check your email."
+msgstr ""
+
+#: class-wp-ajax-login-public.php:236
+msgid "Please enter a username or e-mail address."
+msgstr ""
+
+#: class-wp-ajax-login-public.php:240
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: class-wp-ajax-login-public.php:252
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: class-wp-ajax-login-public.php:264
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: class-wp-ajax-login-public.php:282
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: class-wp-ajax-login-public.php:284
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: class-wp-ajax-login-public.php:285
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: class-wp-ajax-login-public.php:286
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: class-wp-ajax-login-public.php:295
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: class-wp-ajax-login-public.php:300
+msgid ""
+"The e-mail could not be sent.<br />Possible reason: your host may have "
+"disabled the mail() function."
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:36
+#, php-format
+msgid "Join %s"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:44
+#: partials/wp-ajax-login-public-display.php:77
+msgid "Username"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:48
+msgid "Email"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:54
+#: partials/wp-ajax-login-public-display.php:86
+#: partials/wp-ajax-login-public-display.php:107
+#: partials/wp-ajax-login-public-display.php:115
+msgid "Loading..."
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:54
+msgid "Sign up"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:62
+msgid "Registration is disabled."
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:71
+#, php-format
+msgid "Login to %s"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:81
+msgid "Password"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:86
+#: partials/wp-ajax-login-public-display.php:120
+msgid "Login"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:86
+msgid "Lost Password?"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:96
+msgid "Reset Password"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:97
+msgid ""
+"Enter the username or e-mail you used in your profile. A password reset link "
+"will be sent to you by email."
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:102
+msgid "Username or E-mail"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:107
+msgid "Get new password"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:119
+msgid "Don't have an account?"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:119
+msgid "Sign Up"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:120
+msgid "Already have an account?"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:125
+#, php-format
+msgid "You have already logged in as %1$s. <a href=\"#logout\">Logout?</a>"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:147
+msgid "Login/Register"
+msgstr ""
+
+#: partials/wp-ajax-login-public-display.php:149
+msgid "Logout?"
+msgstr ""
